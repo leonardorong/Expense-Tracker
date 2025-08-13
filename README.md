@@ -19,34 +19,20 @@ It allows you to record, edit, search, group, and export expenses — perfect fo
 
 📸 Screenshots
 
-scss
-Copy
-Edit
 ![App Screenshot](screenshot.png)
 🛠 Installation
 Clone the repository
 
-bash
-Copy
-Edit
 git clone https://github.com/leonardorong/Expense-Tracker
 cd Expense-Tracker
 Install dependencies
 
-bash
-Copy
-Edit
 pip install ttkbootstrap
 Run the app
 
-bash
-Copy
-Edit
 python expense_tracker.py
 📂 Project Structure
-bash
-Copy
-Edit
+
 Expense-Tracker/
 │── expense_tracker.py   # Main application
 │── expenses.txt         # Data file (auto-created if missing)
